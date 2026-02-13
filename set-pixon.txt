@@ -1,0 +1,6 @@
+Neverball Pixon
+Difficulty: Medium through Difficult\\20 levels with a smooth learning curve.\In Dev: 2%\ \
+easy
+shot-pixon/pixo.jpg
+36000 60000 180000  1800 1200 0
+map-pixon/pixo.sol
